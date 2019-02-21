@@ -2,7 +2,7 @@
 
 namespace Slruslan\Gismeteo\Objects;
 
-class Day extends Object {
+class Day extends BaseObject {
     /**
      * @todo: fields description
      */
