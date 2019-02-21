@@ -2,7 +2,7 @@
 
 namespace Slruslan\Gismeteo\Objects;
 
-class Values extends Object {
+class Values extends BaseObject {
 
     /**
      * Most fields are unknown
