@@ -2,7 +2,7 @@
 
 namespace Slruslan\Gismeteo\Objects;
 
-class Forecast extends Object {
+class Forecast extends BaseObject {
     /**
      * Date forecast valid at
      * @var string
