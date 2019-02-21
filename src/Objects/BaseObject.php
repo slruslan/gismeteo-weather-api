@@ -2,7 +2,7 @@
 
 namespace Slruslan\Gismeteo\Objects;
 
-class Object {
+class BaseObject {
 
     public function __construct($fields) {
         foreach($fields as $index => $field) {
