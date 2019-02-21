@@ -2,7 +2,7 @@
 
 namespace Slruslan\Gismeteo\Objects;
 
-class Location extends Object {
+class Location extends BaseObject {
 
     /**
      * Location ID
